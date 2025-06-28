@@ -50,6 +50,13 @@ export const Work = () => {
           </div>
         </div>
       </div>
+      <div className="flex justify-center mt-10">
+        <a href="https://www.sunandmoonglobal.com/" target="_blank" rel="noopener noreferrer"
+        className="bg-teal-500 text-white px-6 py-3 rounded-3xl hover:bg-teal-600 transition font-medium"
+        >
+        See More
+        </a>
+      </div>
     </section>
   );
 };

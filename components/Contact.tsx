@@ -25,9 +25,9 @@ export const Contact = () => {
             </a>
           </p>
           <p>
-            <strong>Message: </strong>
-            <a href="mailto:manuraaluthge@gmail.com" className="text-teal-500">
-              Send a message
+            <strong>Call / Text: </strong>
+            <a className="text-teal-500">
+              +94 70 123 4567
             </a>
           </p>
           <p>
