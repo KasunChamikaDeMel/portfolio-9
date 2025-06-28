@@ -24,7 +24,7 @@ const Hero = ()=>{
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "w-96 h-96 md:w-80 md:h-80 relative rounded-full overflow-hidden shadow-lg",
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                        src: "/images/profile.jpg",
+                        src: "/images/s2.jpg",
                         alt: "Profile",
                         fill: true,
                         className: "object-cover"
@@ -42,7 +42,7 @@ const Hero = ()=>{
                     className: "text-center md:text-left",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                            className: "text-5xl md:text-6xl font-bold mb-4",
+                            className: "text-6xl md:text-6xl font-bold mb-4",
                             children: "Manura Aluthge"
                         }, void 0, false, {
                             fileName: "[project]/components/Hero.tsx",
@@ -110,8 +110,139 @@ const About = ()=>{
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                     className: "text-black text-lg leading-relaxed",
-                    children: "A highly motivated and results driven chief who has around sixteen (16) years of invaluable working experience in Business management. With over a decade of experience in finance and management, I currently serve as Managing Director at Sun & Moon B. G. Pvt Ltd. My past roles include General Manager at SignGallery and Iresha Food Products, and Finance & Admin Manager at Azmaara Group of Companies. I also served as an Accountant at the Sri Lanka Red Cross Society. Academically, I studied at the University of Colombo, University of Sri Jayewardenepura, and the Institute of Chartered Accountants of Sri Lanka, with early education from Tholangamuwa Central College."
-                }, void 0, false, {
+                    children: [
+                        "I’m ",
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                            children: "Manura Aluthge"
+                        }, void 0, false, {
+                            fileName: "[project]/components/About.tsx",
+                            lineNumber: 7,
+                            columnNumber: 15
+                        }, this),
+                        ", a dedicated business leader with over 16 years of experience across finance, administration, and general management. I am the ",
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                            children: "Founder & Managing Director of Sun & Moon B. G. Pvt Ltd"
+                        }, void 0, false, {
+                            fileName: "[project]/components/About.tsx",
+                            lineNumber: 8,
+                            columnNumber: 20
+                        }, this),
+                        ", where I focus on driving innovation and operational excellence.",
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                            fileName: "[project]/components/About.tsx",
+                            lineNumber: 9,
+                            columnNumber: 11
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                            fileName: "[project]/components/About.tsx",
+                            lineNumber: 9,
+                            columnNumber: 17
+                        }, this),
+                        "Throughout my career, I’ve held key leadership roles, including General Manager positions at ",
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                            children: "SignGallery"
+                        }, void 0, false, {
+                            fileName: "[project]/components/About.tsx",
+                            lineNumber: 11,
+                            columnNumber: 50
+                        }, this),
+                        " and ",
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                            children: "Iresha Food Products"
+                        }, void 0, false, {
+                            fileName: "[project]/components/About.tsx",
+                            lineNumber: 11,
+                            columnNumber: 83
+                        }, this),
+                        ", and Finance & Admin Manager at ",
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                            children: "Azmaara Group of Companies"
+                        }, void 0, false, {
+                            fileName: "[project]/components/About.tsx",
+                            lineNumber: 11,
+                            columnNumber: 153
+                        }, this),
+                        ". I also began my finance journey as an Accountant at the ",
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                            children: "Sri Lanka Red Cross Society"
+                        }, void 0, false, {
+                            fileName: "[project]/components/About.tsx",
+                            lineNumber: 12,
+                            columnNumber: 67
+                        }, this),
+                        ".",
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                            fileName: "[project]/components/About.tsx",
+                            lineNumber: 13,
+                            columnNumber: 11
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                            fileName: "[project]/components/About.tsx",
+                            lineNumber: 13,
+                            columnNumber: 17
+                        }, this),
+                        "My academic background includes studies at the ",
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                            children: "University of Colombo"
+                        }, void 0, false, {
+                            fileName: "[project]/components/About.tsx",
+                            lineNumber: 14,
+                            columnNumber: 58
+                        }, this),
+                        ", ",
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                            children: "University of Sri Jayewardenepura"
+                        }, void 0, false, {
+                            fileName: "[project]/components/About.tsx",
+                            lineNumber: 14,
+                            columnNumber: 98
+                        }, this),
+                        ", and the ",
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                            children: "Institute of Chartered Accountants of Sri Lanka"
+                        }, void 0, false, {
+                            fileName: "[project]/components/About.tsx",
+                            lineNumber: 14,
+                            columnNumber: 158
+                        }, this),
+                        ", after completing my early education at ",
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                            children: "Tholangamuwa Central College"
+                        }, void 0, false, {
+                            fileName: "[project]/components/About.tsx",
+                            lineNumber: 15,
+                            columnNumber: 50
+                        }, this),
+                        ".",
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                            fileName: "[project]/components/About.tsx",
+                            lineNumber: 16,
+                            columnNumber: 11
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                            fileName: "[project]/components/About.tsx",
+                            lineNumber: 16,
+                            columnNumber: 17
+                        }, this),
+                        "Originally from ",
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                            children: "Warakapola"
+                        }, void 0, false, {
+                            fileName: "[project]/components/About.tsx",
+                            lineNumber: 17,
+                            columnNumber: 27
+                        }, this),
+                        " and now based in ",
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                            children: "Colombo"
+                        }, void 0, false, {
+                            fileName: "[project]/components/About.tsx",
+                            lineNumber: 17,
+                            columnNumber: 72
+                        }, this),
+                        ", I bring together strategic insight, strong values, and a forward-thinking mindset in everything I do."
+                    ]
+                }, void 0, true, {
                     fileName: "[project]/components/About.tsx",
                     lineNumber: 6,
                     columnNumber: 9
@@ -189,7 +320,7 @@ const Achievements = ()=>{
                                             children: "Construction Excellence 2025"
                                         }, void 0, false, {
                                             fileName: "[project]/components/Achievements.tsx",
-                                            lineNumber: 22,
+                                            lineNumber: 18,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -197,13 +328,13 @@ const Achievements = ()=>{
                                             children: "Most Promising and High Benchmark Role in Constructions of the Year 2025"
                                         }, void 0, false, {
                                             fileName: "[project]/components/Achievements.tsx",
-                                            lineNumber: 23,
+                                            lineNumber: 19,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/Achievements.tsx",
-                                    lineNumber: 21,
+                                    lineNumber: 17,
                                     columnNumber: 13
                                 }, this)
                             ]
@@ -223,7 +354,7 @@ const Achievements = ()=>{
                                     className: "object-cover w-full h-100 group-hover:scale-105 transition-transform duration-500"
                                 }, void 0, false, {
                                     fileName: "[project]/components/Achievements.tsx",
-                                    lineNumber: 28,
+                                    lineNumber: 24,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -234,7 +365,7 @@ const Achievements = ()=>{
                                             children: "Interior Design Recognition"
                                         }, void 0, false, {
                                             fileName: "[project]/components/Achievements.tsx",
-                                            lineNumber: 36,
+                                            lineNumber: 28,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -242,19 +373,19 @@ const Achievements = ()=>{
                                             children: "Most Promising and High Benchmark Role in Interior Designing of the Year 2025"
                                         }, void 0, false, {
                                             fileName: "[project]/components/Achievements.tsx",
-                                            lineNumber: 37,
+                                            lineNumber: 29,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/Achievements.tsx",
-                                    lineNumber: 35,
+                                    lineNumber: 27,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/Achievements.tsx",
-                            lineNumber: 27,
+                            lineNumber: 23,
                             columnNumber: 11
                         }, this)
                     ]
@@ -354,12 +485,12 @@ const Work = ()=>{
                                 className: "w-full h-[300px] object-cover group-hover:scale-105 transition-transform duration-500"
                             }, void 0, false, {
                                 fileName: "[project]/components/Work.tsx",
-                                lineNumber: 27,
+                                lineNumber: 23,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/Work.tsx",
-                            lineNumber: 26,
+                            lineNumber: 22,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -373,12 +504,12 @@ const Work = ()=>{
                                 className: "w-full h-[300px] object-cover group-hover:scale-105 transition-transform duration-500"
                             }, void 0, false, {
                                 fileName: "[project]/components/Work.tsx",
-                                lineNumber: 37,
+                                lineNumber: 29,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/Work.tsx",
-                            lineNumber: 36,
+                            lineNumber: 28,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -392,12 +523,12 @@ const Work = ()=>{
                                 className: "w-full h-[300px] object-cover group-hover:scale-105 transition-transform duration-500"
                             }, void 0, false, {
                                 fileName: "[project]/components/Work.tsx",
-                                lineNumber: 47,
+                                lineNumber: 35,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/Work.tsx",
-                            lineNumber: 46,
+                            lineNumber: 34,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -411,12 +542,12 @@ const Work = ()=>{
                                 className: "w-full h-[300px] object-cover group-hover:scale-105 transition-transform duration-500"
                             }, void 0, false, {
                                 fileName: "[project]/components/Work.tsx",
-                                lineNumber: 57,
+                                lineNumber: 41,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/Work.tsx",
-                            lineNumber: 56,
+                            lineNumber: 40,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -430,12 +561,12 @@ const Work = ()=>{
                                 className: "w-full h-[300px] object-cover group-hover:scale-105 transition-transform duration-500"
                             }, void 0, false, {
                                 fileName: "[project]/components/Work.tsx",
-                                lineNumber: 67,
+                                lineNumber: 47,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/Work.tsx",
-                            lineNumber: 66,
+                            lineNumber: 46,
                             columnNumber: 11
                         }, this)
                     ]
@@ -537,9 +668,9 @@ const Contact = ()=>{
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                    href: "https://wa.me/94703274701",
+                                    href: "https://wa.me/94701234567",
                                     className: "text-teal-500",
-                                    children: "070 327 4701"
+                                    children: "070 123 4567"
                                 }, void 0, false, {
                                     fileName: "[project]/components/Contact.tsx",
                                     lineNumber: 23,
@@ -622,12 +753,12 @@ const Contact = ()=>{
                                     height: 24
                                 }, void 0, false, {
                                     fileName: "[project]/components/Contact.tsx",
-                                    lineNumber: 50,
+                                    lineNumber: 47,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/components/Contact.tsx",
-                                lineNumber: 44,
+                                lineNumber: 43,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -642,12 +773,12 @@ const Contact = ()=>{
                                     height: 24
                                 }, void 0, false, {
                                     fileName: "[project]/components/Contact.tsx",
-                                    lineNumber: 59,
+                                    lineNumber: 54,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/components/Contact.tsx",
-                                lineNumber: 53,
+                                lineNumber: 50,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -662,12 +793,12 @@ const Contact = ()=>{
                                     height: 24
                                 }, void 0, false, {
                                     fileName: "[project]/components/Contact.tsx",
-                                    lineNumber: 68,
+                                    lineNumber: 61,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/components/Contact.tsx",
-                                lineNumber: 62,
+                                lineNumber: 57,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -682,12 +813,12 @@ const Contact = ()=>{
                                     height: 24
                                 }, void 0, false, {
                                     fileName: "[project]/components/Contact.tsx",
-                                    lineNumber: 77,
+                                    lineNumber: 68,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/components/Contact.tsx",
-                                lineNumber: 71,
+                                lineNumber: 64,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -702,23 +833,23 @@ const Contact = ()=>{
                                     height: 24
                                 }, void 0, false, {
                                     fileName: "[project]/components/Contact.tsx",
-                                    lineNumber: 86,
+                                    lineNumber: 75,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/components/Contact.tsx",
-                                lineNumber: 80,
+                                lineNumber: 71,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/Contact.tsx",
-                        lineNumber: 43,
+                        lineNumber: 42,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/components/Contact.tsx",
-                    lineNumber: 42,
+                    lineNumber: 41,
                     columnNumber: 9
                 }, this)
             ]
@@ -844,12 +975,12 @@ const NavBar = ()=>{
                                 children: link.label
                             }, link.label, false, {
                                 fileName: "[project]/components/NavBar.tsx",
-                                lineNumber: 33,
+                                lineNumber: 27,
                                 columnNumber: 13
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/components/NavBar.tsx",
-                        lineNumber: 31,
+                        lineNumber: 25,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -859,18 +990,18 @@ const NavBar = ()=>{
                             size: 24
                         }, void 0, false, {
                             fileName: "[project]/components/NavBar.tsx",
-                            lineNumber: 47,
+                            lineNumber: 41,
                             columnNumber: 21
                         }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$menu$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Menu$3e$__["Menu"], {
                             size: 24
                         }, void 0, false, {
                             fileName: "[project]/components/NavBar.tsx",
-                            lineNumber: 47,
+                            lineNumber: 41,
                             columnNumber: 39
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/NavBar.tsx",
-                        lineNumber: 43,
+                        lineNumber: 37,
                         columnNumber: 9
                     }, this)
                 ]
@@ -888,12 +1019,12 @@ const NavBar = ()=>{
                         children: link.label
                     }, link.label, false, {
                         fileName: "[project]/components/NavBar.tsx",
-                        lineNumber: 54,
+                        lineNumber: 48,
                         columnNumber: 13
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/components/NavBar.tsx",
-                lineNumber: 52,
+                lineNumber: 46,
                 columnNumber: 9
             }, this)
         ]

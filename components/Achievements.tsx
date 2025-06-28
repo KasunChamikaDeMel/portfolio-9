@@ -11,11 +11,7 @@ export const Achievements = () => {
         <div className="grid md:grid-cols-2 gap-10">
           
           <div className="relative group rounded-2xl overflow-hidden shadow-xl">
-            <Image
-              src="/images/interior.jpg"
-              alt="Construction Achievement"
-              width={700}
-              height={500}
+            <Image src="/images/interior.jpg" alt="Construction Achievement" width={700} height={500}
               className="object-cover w-full h-100 group-hover:scale-105 transition-transform duration-500"
             />
             <div className="absolute inset-0 bg-black/50 flex flex-col justify-center items-center text-center p-6">
@@ -25,11 +21,7 @@ export const Achievements = () => {
           </div>
 
           <div className="relative group rounded-2xl overflow-hidden shadow-xl">
-            <Image
-              src="/images/award.jpg"
-              alt="Interior Design Achievement"
-              width={700}
-              height={500}
+            <Image src="/images/award.jpg" alt="Interior Design Achievement" width={700} height={500}
               className="object-cover w-full h-100 group-hover:scale-105 transition-transform duration-500"
             />
             <div className="absolute inset-0 bg-black/50 flex flex-col justify-center items-center text-center p-6">
@@ -37,7 +29,6 @@ export const Achievements = () => {
               <p className="text-gray-200 text-base">Most Promising and High Benchmark Role in Interior Designing of the Year 2025</p>
             </div>
           </div>
-
         </div>
       </div>
     </section>

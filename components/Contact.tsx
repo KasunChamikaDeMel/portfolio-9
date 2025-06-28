@@ -20,8 +20,8 @@ export const Contact = () => {
           </p>
           <p>
             <strong>WhatsApp: </strong>
-            <a href="https://wa.me/94703274701" className="text-teal-500">
-              070 327 4701
+            <a href="https://wa.me/94701234567" className="text-teal-500">
+              070 123 4567
             </a>
           </p>
           <p>
@@ -38,49 +38,38 @@ export const Contact = () => {
           </p>
         </div>
 
-        {/* Social Icon Bar - Icons Only */}
         <div className="flex justify-center">
           <div className="flex rounded-full overflow-hidden border border-gray-300 bg-white text-black divide-x divide-gray-300">
             <a
-              href="https://facebook.com/ManuraAluthge"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="https://facebook.com/ManuraAluthge" target="_blank" rel="noopener noreferrer"
               className="flex items-center px-5 py-3 hover:bg-gray-100 transition"
             >
               <Image src="/icons/fb.png" alt="Facebook" width={24} height={24} />
             </a>
 
             <a
-              href="https://instagram.com/ManuraAluthge"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="https://instagram.com/ManuraAluthge" target="_blank" rel="noopener noreferrer"
               className="flex items-center px-5 py-3 hover:bg-gray-100 transition"
             >
               <Image src="/icons/ig.png" alt="Instagram" width={24} height={24} />
             </a>
 
             <a
-              href="https://tiktok.com/@ManuraAluthge"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="https://tiktok.com/@ManuraAluthge" target="_blank" rel="noopener noreferrer"
               className="flex items-center px-5 py-3 hover:bg-gray-100 transition"
             >
               <Image src="/icons/tiktok.png" alt="TikTok" width={24} height={24} />
             </a>
 
             <a
-              href="https://youtube.com/@ManuraAluthge"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="https://youtube.com/@ManuraAluthge" target="_blank" rel="noopener noreferrer"
               className="flex items-center px-5 py-3 hover:bg-gray-100 transition"
             >
               <Image src="/icons/youtube.png" alt="YouTube" width={24} height={24} />
             </a>
 
             <a
-              href="https://linkedin.com/in/ManuraAluthge"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="https://linkedin.com/in/ManuraAluthge" target="_blank" rel="noopener noreferrer"
               className="flex items-center px-5 py-3 hover:bg-gray-100 transition"
             >
               <Image src="/icons/li.png" alt="LinkedIn" width={24} height={24} />

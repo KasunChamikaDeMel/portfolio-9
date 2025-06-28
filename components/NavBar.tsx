@@ -19,13 +19,7 @@ export const NavBar = () => {
     <header className="fixed top-0 left-0 w-full z-50 backdrop-blur-lg bg-white/5 border-b border-white/10 shadow-sm">
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
         <a href="#home" className="flex items-center">
-          <Image
-            src="/icons/logo.png"
-            alt="Logo"
-            width={100}
-            height={100}
-            className="object-contain"
-          />
+          <Image src="/icons/logo.png" alt="Logo" width={100} height={100} className="object-contain" />
         </a>
 
         <nav className="hidden md:flex space-x-8">
