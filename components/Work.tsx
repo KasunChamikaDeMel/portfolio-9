@@ -26,7 +26,7 @@ export const Work = () => {
   return (
     <section className="py-20 px-6 bg-gray-50" id="work">
       <div className="max-w-7xl mx-auto">
-        <h3 className="text-5xl text-black font-semibold mb-12 text-center" data-aos="fade-up" >Work</h3>
+        <h3 className="text-5xl text-red-600 font-semibold mb-12 text-center" data-aos="fade-up" >Work</h3>
 
         <Carousel className="w-full max-w-6xl mx-auto rounded-2xl">
           <CarouselContent>
@@ -57,7 +57,7 @@ export const Work = () => {
           See More
         </a>
       </div>
-      
+
     </section>
   );
 };

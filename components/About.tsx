@@ -1,8 +1,8 @@
 export const About = () => {
   return (
-    <section className="py-20 px-6 bg-gray-50 text-black" id="about">
+    <section className="py-20 px-6 bg-gray-50" id="about">
       <div className="max-w-5xl mx-auto" data-aos="fade-up">
-        <h3 className="text-5xl font-semibold mb-7">About</h3>
+        <h3 className="text-5xl text-red-600 font-semibold mb-7">About</h3>
         <p className="text-black text-lg leading-relaxed">
           I’m <strong>Manura Aluthge</strong>, a dedicated business leader with over 16 years of experience across finance, administration, and general management. 
           I am the <strong>Founder & Managing Director of Sun & Moon B. G. Pvt Ltd</strong>, where I focus on driving innovation and operational excellence.
