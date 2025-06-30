@@ -26,7 +26,7 @@ export const Work = () => {
   return (
     <section className="py-20 px-6 bg-gray-50" id="work">
       <div className="max-w-7xl mx-auto">
-        <h3 className="text-4xl text-black font-semibold mb-12 text-center" data-aos="fade-up" >Work</h3>
+        <h3 className="text-5xl text-black font-semibold mb-12 text-center" data-aos="fade-up" >Work</h3>
 
         <Carousel className="w-full max-w-6xl mx-auto rounded-2xl">
           <CarouselContent>
@@ -52,15 +52,12 @@ export const Work = () => {
       </div>
 
       <div className="flex justify-center mt-10">
-        <a
-          href="https://www.sunandmoonglobal.com/gallery"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="bg-red-500 text-white px-6 py-3 rounded-3xl hover:bg-red-600 transition font-medium"
-        >
+        <a href="https://www.sunandmoonglobal.com/gallery" target="_blank" rel="noopener noreferrer"
+          className="bg-red-500 text-white px-6 py-3 rounded-3xl hover:bg-red-600 transition font-medium">
           See More
         </a>
       </div>
+      
     </section>
   );
 };
