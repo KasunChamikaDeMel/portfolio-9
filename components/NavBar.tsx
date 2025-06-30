@@ -18,16 +18,17 @@ export const NavBar = () => {
   return (
     <header className="fixed top-0 left-0 w-full z-50 backdrop-blur-lg bg-white/5 border-b border-white/10 shadow-sm">
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
-        <a href="#home" className="flex items-center">
-          <Image src="/icons/logo.png" alt="Logo" width={100} height={100} className="object-contain" />
+        <a href="#home" className="flex items-center text-3xl text-red-700 font-serif font-bold italic tracking-wider">
+          Manura Aluthge
         </a>
+
 
         <nav className="hidden md:flex space-x-8">
           {links.map((link) => (
             <a
               key={link.label}
               href={link.href}
-              className="text-black hover:text-teal-400 transition font-medium"
+              className="text-black hover:text-red-400 transition font-medium"
             >
               {link.label}
             </a>
@@ -49,7 +50,7 @@ export const NavBar = () => {
               key={link.label}
               href={link.href}
               onClick={() => setIsOpen(false)}
-              className="block text-black py-2 hover:text-blue-600 transition font-medium"
+              className="block text-black py-2 hover:text-red-600 transition font-medium"
             >
               {link.label}
             </a>

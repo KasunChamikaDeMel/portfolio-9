@@ -4,75 +4,75 @@ import Image from 'next/image';
 
 export const Contact = () => {
   return (
-    <section className="py-20 px-6 bg-gray-50" id="contact">
-      <div className="max-w-xl mx-auto text-center" data-aos="fade-up">
-        <h3 className="text-4xl font-semibold mb-6 text-black">Contact</h3>
-        <p className="text-gray-700 text-lg mb-8">
-          Feel free to reach out through any of the methods below.
-        </p>
+    <section
+      id="contact"
+      className="min-h-screen w-full bg-gray-50 flex items-center justify-center px-8 py-20"
+    >
+      <div
+        className="max-w-6xl w-full grid md:grid-cols-2 gap-14 items-center"
+        data-aos="fade-up"
+      >
+        <div className="space-y-8">
+          <h3 className="text-5xl font-extrabold text-red-600 tracking-wider">
+            Contact
+          </h3>
+          <p className="text-lg text-gray-700 leading-relaxed max-w-md">
+            Feel free to get in touch via email, WhatsApp, or phone.
+            I’m always happy to connect and discuss ideas or opportunities.
+          </p>
 
-        <div className="space-y-4 text-md text-gray-800 mb-12">
-          <p>
-            <strong>Email: </strong>
-            <a href="mailto:manuraaluthge@gmail.com" className="text-teal-500">
-              manuraaluthge@gmail.com
-            </a>
-          </p>
-          <p>
-            <strong>WhatsApp: </strong>
-            <a href="https://wa.me/94701234567" className="text-teal-500">
-              070 123 4567
-            </a>
-          </p>
-          <p>
-            <strong>Call / Text: </strong>
-            <a className="text-teal-500">
-              +94 70 123 4567
-            </a>
-          </p>
-          <p>
-            <strong>Location: </strong>
-            <a href="#" className="text-teal-500">
-              Colombo, Sri Lanka
-            </a>
-          </p>
+          <div className="space-y-6 text-lg text-gray-800 font-medium">
+            <p>
+              <strong className="text-red-600">Email:</strong>{' '}
+              <a href="mailto:manuraaluthge@gmail.com" className="underline hover:text-red-400 transition">
+                manuraaluthge@gmail.com
+              </a>
+            </p>
+            <p>
+              <strong className="text-red-600">Email:</strong>{' '}
+              <a href="mailto:manuraaluthge@gmail.com" className="underline hover:text-red-400 transition">
+                md@sunandmoonglobal.com
+              </a>
+            </p>
+            <p>
+              <strong className="text-red-600">WhatsApp:</strong>{' '}
+              <a href="https://wa.me/94773433747" className="underline hover:text-red-400 transition" >
+                077 343 3747
+              </a>
+            </p>
+            <p>
+              <strong className="text-red-600">Official:</strong>{' '}
+              <span className="text-red-600 font-semibold">
+                +94 11 343 7672
+              </span>
+            </p>
+            <p>
+              <strong className="text-red-600">Location:</strong>{' '}
+              <span className="text-red-600 font-semibold">
+                Colombo, Sri Lanka
+              </span>
+            </p>
+          </div>
         </div>
 
-        <div className="flex justify-center">
-          <div className="flex rounded-full overflow-hidden border border-gray-300 bg-white text-black divide-x divide-gray-300">
+        <div className="flex justify-center md:justify-center">
+          <div className="flex flex-col items-center space-y-8">
             <a
-              href="https://facebook.com/ManuraAluthge" target="_blank" rel="noopener noreferrer"
-              className="flex items-center px-5 py-3 hover:bg-gray-100 transition"
+              href="https://www.facebook.com/manura.aluthge/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-white p-6 rounded-full shadow-xl hover:shadow-red-300 hover:bg-red-50 transition"
             >
-              <Image src="/icons/fb.png" alt="Facebook" width={24} height={24} />
+              <Image src="/icons/fb.png" alt="Facebook" width={50} height={50} />
             </a>
 
             <a
-              href="https://instagram.com/ManuraAluthge" target="_blank" rel="noopener noreferrer"
-              className="flex items-center px-5 py-3 hover:bg-gray-100 transition"
+              href="https://lk.linkedin.com/in/manura-aluthge-a3214313a"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-white p-6 rounded-full shadow-xl hover:shadow-red-300 hover:bg-red-50 transition"
             >
-              <Image src="/icons/ig.png" alt="Instagram" width={24} height={24} />
-            </a>
-
-            <a
-              href="https://tiktok.com/@ManuraAluthge" target="_blank" rel="noopener noreferrer"
-              className="flex items-center px-5 py-3 hover:bg-gray-100 transition"
-            >
-              <Image src="/icons/tiktok.png" alt="TikTok" width={24} height={24} />
-            </a>
-
-            <a
-              href="https://youtube.com/@ManuraAluthge" target="_blank" rel="noopener noreferrer"
-              className="flex items-center px-5 py-3 hover:bg-gray-100 transition"
-            >
-              <Image src="/icons/youtube.png" alt="YouTube" width={24} height={24} />
-            </a>
-
-            <a
-              href="https://linkedin.com/in/ManuraAluthge" target="_blank" rel="noopener noreferrer"
-              className="flex items-center px-5 py-3 hover:bg-gray-100 transition"
-            >
-              <Image src="/icons/li.png" alt="LinkedIn" width={24} height={24} />
+              <Image src="/icons/li.png" alt="LinkedIn" width={50} height={50} />
             </a>
           </div>
         </div>

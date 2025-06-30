@@ -1,7 +1,7 @@
 export const About = () => {
   return (
     <section className="py-20 px-6 bg-gray-50 text-black" id="about">
-      <div className="max-w-5xl mx-auto" data-aos="fade-right">
+      <div className="max-w-5xl mx-auto" data-aos="fade-up">
         <h3 className="text-4xl font-semibold mb-7">About</h3>
         <p className="text-black text-lg leading-relaxed">
           I’m <strong>Manura Aluthge</strong>, a dedicated business leader with over 16 years of experience across finance, administration, and general management. 
