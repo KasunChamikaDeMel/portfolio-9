@@ -2,7 +2,6 @@
 
 import React, { useState } from 'react';
 import { Menu, X } from 'lucide-react';
-import Image from 'next/image';
 
 export const NavBar = () => {
   const [isOpen, setIsOpen] = useState(false);
